@@ -1,0 +1,52 @@
+bootstrap:
+  version: 3.3.7
+  css:
+    base: #The CSS category. base is loaded before theme category
+      bootstrap/css/bootstrap.min.css: { weight: 0 } #weight sets the order within the category above
+  js:
+    bootstrap/js/bootstrap.min.js: {}
+  dependencies:
+    - core/jquery
+
+global-styling:
+  version: VERSION
+  css:
+    base:
+      css/base/elements.css: { weight: 1 }
+      css/base/layout.css: {}
+      css/base/typography.css: {}
+    component:
+      css/components/alert.css: {}
+      css/components/accordion.css: {}
+      css/components/block.css: {}
+      css/components/buttons.css: {}
+      css/components/contact-info.css: {}
+      css/components/dropdowns.css: {}
+      css/components/highlights.css: {}
+      css/components/more-links.css: {}
+      css/components/fa-icons-list.css: {}
+      css/components/forms.css: {}
+      css/components/field-taxonomy-term.css: {}
+      css/components/icons-list.css: {}
+      css/components/social-links.css: {}
+      css/components/social-media.css: {}
+      css/components/item-list.css: {}
+      css/components/inline-list.css: {}
+      css/components/image-overlay.css: {}
+      css/components/node-testimonial.css: {}
+      css/components/node-links.css: {}
+      css/components/separators.css: {}
+      css/components/subscribe-forms.css: {}
+      css/components/search.css: {}
+      css/components/site-branding.css: {}
+      css/components/tables.css: {}
+      css/components/tabs.css: {}
+      css/components/team-members.css: {}
+      css/components/pills.css: {}
+      css/components/progress-bars.css: {}
+      css/components/language-switcher.css: {}
+      css/components/menu.css: {}
+      css/components/username.css: {}
+      css/components/view-archive.css: {}
+      css/components/views.css: {}
+      css/components/custom-overrides.css: {}

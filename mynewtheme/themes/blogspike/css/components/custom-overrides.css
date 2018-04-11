@@ -1,0 +1,114 @@
+.region--gray-background {
+    background-color: #185f7c;
+}
+.header-top-highlighted__section ul.menu li a {
+    color:#fff;
+}
+.hff-05 h1, .hff-05 h2, .hff-05 h3, .hff-05 h4, .hff-05 h5, .hff-05 h6, .hff-05 .tp-caption__title, .hff-05 .tp-caption__subtitle, .sff-05 .site-name, .slff-05 .site-slogan, .hff-05 .nav-tab__title {
+    font-family: 'Roboto', Helvetica Neue, Arial, Sans-serif;
+    font-weight: 900;
+
+}
+.views-field-title a, h2.title {
+  color: #222;
+}
+a {
+  color: #185f7c;
+}
+a:hover {
+  color: #185f7c !important;
+}
+.overlay-container a:hover,
+.slider-revolution a:hover {
+  color: #fff !important;
+}
+.posts-slider__content,
+.posts-slider__content a {
+  color: #fff;
+}
+.view-posts-slider .views-field-name {
+    font-style: italic;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: none;
+}
+.view-posts-slider a.link--bordered, .view-posts-slider .link--bordered a {
+    border-color: #fff;
+}
+.header-top-highlighted a {
+  color:#fff;
+}
+.header-top-highlighted__section ul.menu li a {
+  color: #222;
+}
+#superfish-mt-header-top > li > a {
+  color: #fff;
+}
+.icons-list a:hover {
+    color:#fff !important;
+}
+h2.title {
+  color: #185f7c !important;
+}
+.post-progress__bar {
+    background-color: #185f7c !important;
+}
+.share-links ul li a {
+  color: #185f7c !important;
+}
+.share-links ul li a:hover {
+    background-color: #185f7c !important;
+}
+.share-links ul li a:hover i {
+  color:#fff !important;
+}
+.js-share-links-fixed .share-links ul li a i {
+  color: #fff !important;
+}
+.node ul.links li a {
+    background-color: #185f7c !important;
+    border: 1px solid #185f7c !important;
+}
+.node ul.links li a:hover {
+  background-color: #fff !important;
+  border: 1px solid #185f7c !important;
+  color:#fff;
+}
+.nav-tabs > li > a {
+  background-color: #fff !important;
+  border: 1px solid #185f7c !important;
+}
+.nav-tabs > li > a:hover {
+  color:#185f7c !important;
+}
+.nav-tabs > li.active > a {
+  background-color: #185f7c !important;
+  border: 1px solid #185f7c !important;
+}
+.nav-tabs > li.active > a:hover {
+  color:#fff !important;
+}
+.nav-tabs > li > a:focus, .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+    background-color: #505050;
+    border-color: #505050;
+}
+.region--dark-background {
+  background-color: #185f7c !important;
+}
+.subscribe, .subscribe a, .subscribe input {
+  color:#fff !important;
+}
+.region--dark-background .views-field-title a,
+.region--dark-background .views-field-title a:hover {
+  color:#fff !important;
+}
+.footer-bottom a:hover {
+  color:#fff !important;
+}
+.footer-bottom a:hover {
+  color:#fff !important;
+}
+.node__main-content p {
+  font-family: Georgia, Serif !important;
+}
